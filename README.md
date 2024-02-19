@@ -1,7 +1,10 @@
-# DIE NEUE FORM
+# Workshop Designing With
+This repository will contains all the workshops held by the Designing With Team.
+
+## Workshop 1: Co-Design With AI
 Attraverso l'uso della fantasia e di strumenti di intelligenza artificiale progettare oggetti che contraddicono intenzionalmente i canoni della "Gute Form". Questo implica creare design che, invece di seguire la logica di funzionalità e semplicità, esplorino forme, funzioni e estetiche non convenzionali o addirittura provocatorie.
 
-## Die Neue Form – Designing with machines 🤖
+Die Neue Form – Designing with machines 🤖
 12 – 16 Febbraio
 Seminari Interdisciplinari SUPSI
 
